@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Technical_QA_Internship_Task/1.0.0": {
+        "runtime": {
+          "Technical_QA_Internship_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Technical_QA_Internship_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
